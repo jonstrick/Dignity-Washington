@@ -1,0 +1,26 @@
+# Dignity Washington — Wix-Ready Website Package
+
+This package contains a modern, streamlined static prototype that can be recreated in Wix for Nonprofits or Wix Studio.
+
+## Files
+- `index.html` — homepage prototype
+- `styles.css` — complete visual system
+- `script.js` — light smooth-scroll behavior
+- `assets/logo.png` — logo placeholder from the working concept
+- `pages/` — page templates for About, Worship, Ministries, Events, Membership, Donate, News, and Contact
+
+## Wix Porting Instructions
+1. Create a Wix site using a nonprofit, community, church, or blank Wix Studio template.
+2. Rebuild each HTML section as a Wix strip: Hero, cards, CTA, forms, events, blog, and footer.
+3. Use Wix Events for community events and Sunday Mass as recurring listings.
+4. Use Wix Blog for News & Stories.
+5. Use Wix Forms for Contact and ministry inquiries.
+6. Use Wix Donations or your existing donation processor embed for Donate.
+7. Use Wix CMS for board minutes, bulletins, financials, and downloadable resources.
+8. Use the color palette from `styles.css`: navy, gold, violet, white, and restrained rainbow accents.
+
+## Recommended Navigation
+Home | About | Worship | Ministries | Events | Membership | Donate | News | Contact
+
+## Current-site content reflected
+The prototype preserves the existing site's main content architecture: About, Worship, Ministries, Activities/Events, Membership, Donate, Contact, Dignity Center/resources, News, Bulletins, and Board materials.
